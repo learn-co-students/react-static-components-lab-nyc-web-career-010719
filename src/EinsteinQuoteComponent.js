@@ -6,7 +6,7 @@ export class EinsteinQuoteComponent extends Component {
 			<div className="bar" id="einstein">
 				<i>
 					<p>
-						&quot;Life is like riding a bicycle. To keep your balance you must
+						&quot;Life is like riding a bicycle. hiii emily :) so cute To keep your balance you must
 						keep moving&quot;
 					</p>
 				</i>
